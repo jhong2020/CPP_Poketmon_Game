@@ -1,0 +1,146 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Hong\\PKM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D188CFC1-3CC5-4DF8-A687-C7B0D3BA13F7}|PKM\\PKM.vcxproj|C:\\Hong\\PKM\\PKM\\CppCLR_WinFormsProject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D188CFC1-3CC5-4DF8-A687-C7B0D3BA13F7}|PKM\\PKM.vcxproj|solutionrelative:PKM\\CppCLR_WinFormsProject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D188CFC1-3CC5-4DF8-A687-C7B0D3BA13F7}|PKM\\PKM.vcxproj|C:\\Hong\\PKM\\PKM\\Battle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D188CFC1-3CC5-4DF8-A687-C7B0D3BA13F7}|PKM\\PKM.vcxproj|solutionrelative:PKM\\Battle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D188CFC1-3CC5-4DF8-A687-C7B0D3BA13F7}|PKM\\PKM.vcxproj|C:\\Hong\\PKM\\PKM\\Form1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D188CFC1-3CC5-4DF8-A687-C7B0D3BA13F7}|PKM\\PKM.vcxproj|solutionrelative:PKM\\Form1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D188CFC1-3CC5-4DF8-A687-C7B0D3BA13F7}|PKM\\PKM.vcxproj|C:\\Hong\\PKM\\PKM\\Form1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D188CFC1-3CC5-4DF8-A687-C7B0D3BA13F7}|PKM\\PKM.vcxproj|solutionrelative:PKM\\Form1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D188CFC1-3CC5-4DF8-A687-C7B0D3BA13F7}|PKM\\PKM.vcxproj|C:\\Hong\\PKM\\PKM\\Form1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{D188CFC1-3CC5-4DF8-A687-C7B0D3BA13F7}|PKM\\PKM.vcxproj|solutionrelative:PKM\\Form1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D188CFC1-3CC5-4DF8-A687-C7B0D3BA13F7}|PKM\\PKM.vcxproj|C:\\Hong\\PKM\\PKM\\Battle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D188CFC1-3CC5-4DF8-A687-C7B0D3BA13F7}|PKM\\PKM.vcxproj|solutionrelative:PKM\\Battle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D188CFC1-3CC5-4DF8-A687-C7B0D3BA13F7}|PKM\\PKM.vcxproj|C:\\Hong\\PKM\\PKM\\Resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{D188CFC1-3CC5-4DF8-A687-C7B0D3BA13F7}|PKM\\PKM.vcxproj|solutionrelative:PKM\\Resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.h",
+              "DocumentMoniker": "C:\\Hong\\PKM\\PKM\\Form1.h",
+              "RelativeDocumentMoniker": "PKM\\Form1.h",
+              "ToolTip": "C:\\Hong\\PKM\\PKM\\Form1.h",
+              "RelativeToolTip": "PKM\\Form1.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-08T20:48:58.309Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cpp",
+              "DocumentMoniker": "C:\\Hong\\PKM\\PKM\\Form1.cpp",
+              "RelativeDocumentMoniker": "PKM\\Form1.cpp",
+              "ToolTip": "C:\\Hong\\PKM\\PKM\\Form1.cpp",
+              "RelativeToolTip": "PKM\\Form1.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-09T07:16:39.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Battle.h",
+              "DocumentMoniker": "C:\\Hong\\PKM\\PKM\\Battle.h",
+              "RelativeDocumentMoniker": "PKM\\Battle.h",
+              "ToolTip": "C:\\Hong\\PKM\\PKM\\Battle.h",
+              "RelativeToolTip": "PKM\\Battle.h",
+              "ViewState": "AgIAADsAAAAAAAAAAAAswE0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-09T06:02:55.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Battle.cpp",
+              "DocumentMoniker": "C:\\Hong\\PKM\\PKM\\Battle.cpp",
+              "RelativeDocumentMoniker": "PKM\\Battle.cpp",
+              "ToolTip": "C:\\Hong\\PKM\\PKM\\Battle.cpp",
+              "RelativeToolTip": "PKM\\Battle.cpp",
+              "ViewState": "AgIAAJ8AAAAAAAAAAAAswLEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-09T05:21:43.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CppCLR_WinFormsProject.cpp",
+              "DocumentMoniker": "C:\\Hong\\PKM\\PKM\\CppCLR_WinFormsProject.cpp",
+              "RelativeDocumentMoniker": "PKM\\CppCLR_WinFormsProject.cpp",
+              "ToolTip": "C:\\Hong\\PKM\\PKM\\CppCLR_WinFormsProject.cpp",
+              "RelativeToolTip": "PKM\\CppCLR_WinFormsProject.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-08T21:00:31.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.h [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Hong\\PKM\\PKM\\Form1.h",
+              "RelativeDocumentMoniker": "PKM\\Form1.h",
+              "ToolTip": "C:\\Hong\\PKM\\PKM\\Form1.h [\uB514\uC790\uC778]",
+              "RelativeToolTip": "PKM\\Form1.h [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-08T20:33:29.286Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Hong\\PKM\\PKM\\Resources.resx",
+              "RelativeDocumentMoniker": "PKM\\Resources.resx",
+              "ToolTip": "C:\\Hong\\PKM\\PKM\\Resources.resx",
+              "RelativeToolTip": "PKM\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-10-08T20:44:52.449Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+﻿  MyForm.cpp
+C:\Users\user\Desktop\ㅂㅈㄷㅁㄴㅇ\Project2\MyForm.h(2,10): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다.
+  (소스 파일 'MyForm.cpp'을(를) 컴파일하는 중)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\format(42): warning STL4038: The contents of <format> are available only with C++20 or later.
+C:\Users\user\Desktop\ㅂㅈㄷㅁㄴㅇ\Project2\MyForm.cpp(3,10): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다.
+  MyForm1.cpp
+  MyForm2.cpp
+  Rule.h
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  코드를 생성하고 있습니다...
+  MyForm.obj : MSIL 모듈이 발견되었습니다. MSIL에 증분 링크를 사용할 수 없습니다. 전체 링크를 수행하고 있습니다.
+  Project2.vcxproj -> C:\Users\user\Desktop\ㅂㅈㄷㅁㄴㅇ\Project2\x64\Debug\Project2.exe

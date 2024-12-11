@@ -1,0 +1,15 @@
+C:\Users\andykcal\c#\Project2\Project2\x64\Debug\Project2.vcxproj.AssemblyReference.cache
+C:\Users\andykcal\c#\Project2\Project2\x64\Debug\Project2.MyForm.resources
+C:\Users\andykcal\c#\Project2\Project2\x64\Debug\Project2.MyForm1.resources
+C:\Users\andykcal\c#\Project2\Project2\x64\Debug\Project2.MyForm2.resources
+C:\Users\andykcal\c#\Project2\Project2\x64\Debug\Project2.vcxproj.GenerateResource.cache
+D:\변성욱\OneDrive\바탕 화면\Project2\Project2\x64\Debug\Project2.vcxproj.AssemblyReference.cache
+D:\변성욱\OneDrive\바탕 화면\Project2\Project2\x64\Debug\Project2.MyForm.resources
+D:\변성욱\OneDrive\바탕 화면\Project2\Project2\x64\Debug\Project2.MyForm1.resources
+D:\변성욱\OneDrive\바탕 화면\Project2\Project2\x64\Debug\Project2.MyForm2.resources
+D:\변성욱\OneDrive\바탕 화면\Project2\Project2\x64\Debug\Project2.vcxproj.GenerateResource.cache
+C:\Users\user\Desktop\ㅂㅈㄷㅁㄴㅇ\Project2\Project2\x64\Debug\Project2.vcxproj.AssemblyReference.cache
+C:\Users\user\Desktop\ㅂㅈㄷㅁㄴㅇ\Project2\Project2\x64\Debug\Project2.MyForm.resources
+C:\Users\user\Desktop\ㅂㅈㄷㅁㄴㅇ\Project2\Project2\x64\Debug\Project2.MyForm1.resources
+C:\Users\user\Desktop\ㅂㅈㄷㅁㄴㅇ\Project2\Project2\x64\Debug\Project2.MyForm2.resources
+C:\Users\user\Desktop\ㅂㅈㄷㅁㄴㅇ\Project2\Project2\x64\Debug\Project2.vcxproj.GenerateResource.cache

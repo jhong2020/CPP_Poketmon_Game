@@ -1,0 +1,8 @@
+C:\jehong\PKM\PKM\x64\Debug\PKM.vcxproj.AssemblyReference.cache
+C:\jehong\PKM\PKM\x64\Debug\PKM.Form1.resources
+C:\jehong\PKM\PKM\x64\Debug\PKM.Resources.resources
+C:\jehong\PKM\PKM\x64\Debug\PKM.vcxproj.GenerateResource.cache
+C:\Hong\PKM\PKM\x64\Debug\PKM.vcxproj.AssemblyReference.cache
+C:\Hong\PKM\PKM\x64\Debug\PKM.Form1.resources
+C:\Hong\PKM\PKM\x64\Debug\PKM.Resources.resources
+C:\Hong\PKM\PKM\x64\Debug\PKM.vcxproj.GenerateResource.cache
